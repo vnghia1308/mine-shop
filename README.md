@@ -6,7 +6,7 @@ Get servers (recommend): https://getbukkit.org/download/spigot
 ![Demo_image](https://i.imgur.com/ZdzmVeS.png)
 
 # Install
-Recommend Apache XAMPP: https://www.apachefriends.org/download.html.<br>
+Recommend XAMPP Apache & MySQL: https://www.apachefriends.org/download.html.<br>
 Just copy & paste to htdocs (*C:/xampp/htdocs*). Import file **minecraft.sql** to MySQL. Finally, change file **config.php**.
 
 # Plugins
