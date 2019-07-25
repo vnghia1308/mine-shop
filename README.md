@@ -37,5 +37,5 @@ enable-query=true <------ TRUE
 ```
 
 # Credits
-- PHP code by Vy Nghia
+- PHP code by [Vy Nghia](https://www.facebook.com/nghiadev)
 - Thanks [xPaw](https://github.com/xPaw/PHP-Minecraft-Query) (Query source) &  [thedudeguy](https://github.com/thedudeguy/PHP-Minecraft-Rcon) (RCon source)
