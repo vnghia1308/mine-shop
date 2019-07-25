@@ -1,0 +1,3 @@
+[Minecraft Plugins Require]
+- Login Security: https://dev.bukkit.org/projects/loginsecurity
+- SkinsRestorer: https://www.spigotmc.org/resources/skinsrestorer.2124/
