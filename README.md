@@ -3,6 +3,7 @@ PHP website supports Minecraft Spigot/Bukkit servers.
 ```
 Get servers (recommend): https://getbukkit.org/download/spigot
 ```
+![Demo_image](https://i.imgur.com/ZdzmVeS.png)
 
 # Install
 Recommend Apache XAMPP: https://www.apachefriends.org/download.html.<br>
