@@ -1,9 +1,12 @@
 # mine-shop
-PHP website supports Minecraft Spigot/Bukkit servers
+PHP website supports Minecraft Spigot/Bukkit servers.
+```
+Get servers (recommend): https://getbukkit.org/download/spigot
+```
 
 # Install
 Recommend Apache XAMPP: https://www.apachefriends.org/download.html.<br>
-Just copy & paste to htdocs (C:/xampp/htdocs). Import file minecraft.sql to MySQL. Finally, change file config.php
+Just copy & paste to htdocs (*C:/xampp/htdocs*). Import file **minecraft.sql** to MySQL. Finally, change file **config.php**.
 
 # Plugins
 - Login Security: https://dev.bukkit.org/projects/loginsecurity
@@ -32,3 +35,7 @@ enable-rcon=true <------ TRUE
 # Query
 enable-query=true <------ TRUE
 ```
+
+# Credits
+- PHP code by Vy Nghia
+- Thanks [xPaw](https://github.com/xPaw/PHP-Minecraft-Query) (Query source) &  [thedudeguy](https://github.com/thedudeguy/PHP-Minecraft-Rcon) (RCon source)
